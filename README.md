@@ -1,1 +1,3 @@
 # ProductOriginalityValidation
+1. By this project a customer can be assured of the originality of the purchased product by sending the code on the hologram sticker through SMS to the provided phone number and getting the getting the product specification. 
+2. Thechnologies used in this project are : Flask, My Sql, ...
